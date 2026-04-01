@@ -159,4 +159,4 @@ This project is part of a data analytics portfolio. Feedback, suggestions, and i
 
 # 🌟 Final Note
 
-This project reflects a complete analytics workflow — from data modeling to insight generation — and demonstrates the ability to translate raw data into meaningful business decisions.
+This project reflects a complete analytics workflow, from data modeling to insight generation  and demonstrates the ability to translate raw data into meaningful business decisions.
