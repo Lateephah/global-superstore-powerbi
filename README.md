@@ -65,6 +65,12 @@ The following measures were created using DAX:
 * **Return Rate**
 * **Total Orders**
 * **Total Shipping Cost**
+* **Average Discount**
+* **Orders Count**
+* **Profit Margin**
+* **Return Rate**
+* **Returned orders**
+* **Shipping Cost** 
 
 These metrics form the foundation of all dashboard insights.
 
