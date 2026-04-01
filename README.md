@@ -75,7 +75,7 @@ The report is organized into three interactive pages:
 
 ### 📌 1. Executive Summary
 
-![Executive Summary](images/executive_summary.png)
+![Executive Summary](images/Executive Summary.png)
 
 Provides a high-level overview of business performance:
 
