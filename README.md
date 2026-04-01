@@ -55,6 +55,8 @@ A **star schema** data model was implemented to ensure performance, scalability,
 
 This structure enables efficient filtering and supports advanced analytics using DAX.
 
+![Data Modelling](images/data_model.png)
+
 ## 📏 Key Metrics & KPIs
 
 The following measures were created using DAX:
