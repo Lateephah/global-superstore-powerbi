@@ -1,5 +1,6 @@
 # 📊 Global Superstore Sales & Operations Analysis (Power BI)
 
+
 ## 🚀 Project Overview
 
 This project presents an end-to-end business intelligence analysis of a global retail dataset using Power BI. It is designed to uncover actionable insights across **sales performance, customer behavior, product profitability, and operational efficiency**.
@@ -76,6 +77,7 @@ The report is organized into three interactive pages:
 ### 📌 1. Executive Summary
 
 ![Executive Summary](images/Executive Summary.png)
+
 
 Provides a high-level overview of business performance:
 
