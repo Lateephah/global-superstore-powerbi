@@ -10,7 +10,7 @@ The goal of this analysis is to move beyond raw data and provide **decision-read
 ## 🎥 Project Walkthrough (Video)
 
 📌 *Watch the full interactive dashboard walkthrough here:*
-👉 **[Insert Loom Video Link Here]**
+👉 **[Video Link ]**
 
 > This video provides a guided explanation of the dashboard design, data model, key insights, and business recommendations.
 
